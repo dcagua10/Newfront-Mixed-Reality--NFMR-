@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MCB1
+  - MCB2
+  - MCB3
+  - TCB1
+  - TCB2
+  - TCB3
+  - TCB4
+  - TIB1
+  - TIB2
+  - TIB3
+  - CVB1
+  - CVB2
+  - CVB3
+  - CHB1
+  - CHB2
+  - CHB3
+  - EB1
+  - BTNUP
+  - BTNDOWN
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - VirtualWorldLayer
+  - DualCamera (Right)
+  - DualCamera (Left)
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

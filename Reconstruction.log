@@ -1,0 +1,327 @@
+[Reconstruction Engine] [2019-02-26 17:42:46] [LOG] Set DataSource:0
+[Reconstruction Engine] [2019-02-26 17:42:46] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2019-02-26 17:44:53] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:44:54] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2019-02-26 17:45:00] [LOG] Set DataSource:0
+[Reconstruction Engine] [2019-02-26 17:45:00] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2019-02-26 17:46:47] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:46:48] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2019-02-26 17:47:02] [LOG] Set DataSource:0
+[Reconstruction Engine] [2019-02-26 17:47:02] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2019-02-26 17:47:16] [LOG] CMD: Start Process
+[Reconstruction Engine] [2019-02-26 17:47:18] [LOG] Frame:50, FPS:23.362995, #Vert:7313, Stride:16, #Idx:31527
+[Reconstruction Engine] [2019-02-26 17:47:21] [LOG] Frame:100, FPS:21.920555, #Vert:2885, Stride:16, #Idx:14376
+[Reconstruction Engine] [2019-02-26 17:47:23] [LOG] Frame:150, FPS:21.090849, #Vert:1199, Stride:16, #Idx:6057
+[Reconstruction Engine] [2019-02-26 17:47:26] [LOG] Frame:200, FPS:20.289978, #Vert:5007, Stride:16, #Idx:24999
+[Reconstruction Engine] [2019-02-26 17:47:28] [LOG] Frame:250, FPS:20.531507, #Vert:4164, Stride:16, #Idx:19542
+[Reconstruction Engine] [2019-02-26 17:47:31] [LOG] Frame:300, FPS:20.273800, #Vert:5693, Stride:16, #Idx:25965
+[Reconstruction Engine] [2019-02-26 17:47:34] [LOG] Frame:350, FPS:19.717386, #Vert:6276, Stride:16, #Idx:28896
+[Reconstruction Engine] [2019-02-26 17:47:36] [LOG] Frame:400, FPS:19.622541, #Vert:845, Stride:16, #Idx:3582
+[Reconstruction Engine] [2019-02-26 17:47:39] [LOG] Frame:450, FPS:19.329296, #Vert:2699, Stride:16, #Idx:12918
+[Reconstruction Engine] [2019-02-26 17:47:42] [LOG] Frame:500, FPS:19.074957, #Vert:2816, Stride:16, #Idx:12333
+[Reconstruction Engine] [2019-02-26 17:47:45] [LOG] Frame:550, FPS:18.906908, #Vert:6286, Stride:16, #Idx:27879
+[Reconstruction Engine] [2019-02-26 17:47:48] [LOG] Frame:600, FPS:18.979988, #Vert:7591, Stride:16, #Idx:33414
+[Reconstruction Engine] [2019-02-26 17:47:50] [LOG] Frame:650, FPS:19.020161, #Vert:7348, Stride:16, #Idx:33384
+[Reconstruction Engine] [2019-02-26 17:47:53] [LOG] Frame:700, FPS:19.091970, #Vert:7427, Stride:16, #Idx:35106
+[Reconstruction Engine] [2019-02-26 17:47:56] [LOG] Frame:750, FPS:18.994940, #Vert:4837, Stride:16, #Idx:24069
+[Reconstruction Engine] [2019-02-26 17:47:58] [LOG] Frame:800, FPS:18.901413, #Vert:5479, Stride:16, #Idx:26430
+[Reconstruction Engine] [2019-02-26 17:48:02] [LOG] Frame:850, FPS:18.533955, #Vert:5842, Stride:16, #Idx:27543
+[Reconstruction Engine] [2019-02-26 17:48:04] [LOG] Frame:900, FPS:18.613766, #Vert:3985, Stride:16, #Idx:17808
+[Reconstruction Engine] [2019-02-26 17:48:07] [LOG] Frame:950, FPS:18.504976, #Vert:6686, Stride:16, #Idx:32451
+[Reconstruction Engine] [2019-02-26 17:48:10] [LOG] Frame:1000, FPS:18.573208, #Vert:6532, Stride:16, #Idx:31956
+[Reconstruction Engine] [2019-02-26 17:48:13] [LOG] Frame:1050, FPS:18.555479, #Vert:8086, Stride:16, #Idx:38985
+[Reconstruction Engine] [2019-02-26 17:48:15] [LOG] Frame:1100, FPS:18.632273, #Vert:8926, Stride:16, #Idx:43251
+[Reconstruction Engine] [2019-02-26 17:48:15] [LOG] CMD: Export to ./Recons3DAsset/Model
+[Reconstruction Engine] [2019-02-26 17:48:16] [LOG] Start Geometry Extraction...
+[Reconstruction Engine] [2019-02-26 17:48:16] [LOG] Extracting For Chunk: 1/18
+[Reconstruction Engine] [2019-02-26 17:48:17] [LOG] Extracting For Chunk: 2/18
+[Reconstruction Engine] [2019-02-26 17:48:17] [LOG] Extracting For Chunk: 3/18
+[Reconstruction Engine] [2019-02-26 17:48:17] [LOG] Extracting For Chunk: 4/18
+[Reconstruction Engine] [2019-02-26 17:48:17] [LOG] Extracting For Chunk: 5/18
+[Reconstruction Engine] [2019-02-26 17:48:17] [LOG] Extracting For Chunk: 6/18
+[Reconstruction Engine] [2019-02-26 17:48:17] [LOG] Extracting For Chunk: 7/18
+[Reconstruction Engine] [2019-02-26 17:48:18] [LOG] Extracting For Chunk: 8/18
+[Reconstruction Engine] [2019-02-26 17:48:19] [LOG] Extracting For Chunk: 9/18
+[Reconstruction Engine] [2019-02-26 17:48:20] [LOG] Extracting For Chunk: 10/18
+[Reconstruction Engine] [2019-02-26 17:48:20] [LOG] Extracting For Chunk: 11/18
+[Reconstruction Engine] [2019-02-26 17:48:21] [LOG] Extracting For Chunk: 12/18
+[Reconstruction Engine] [2019-02-26 17:48:21] [LOG] Extracting For Chunk: 13/18
+[Reconstruction Engine] [2019-02-26 17:48:22] [LOG] Extracting For Chunk: 14/18
+[Reconstruction Engine] [2019-02-26 17:48:22] [LOG] Extracting For Chunk: 15/18
+[Reconstruction Engine] [2019-02-26 17:48:22] [LOG] Extracting For Chunk: 16/18
+[Reconstruction Engine] [2019-02-26 17:48:22] [LOG] Extracting For Chunk: 17/18
+[Reconstruction Engine] [2019-02-26 17:48:22] [LOG] Extracting For Chunk: 18/18
+[Reconstruction Engine] [2019-02-26 17:48:22] [LOG] Compacting Textures...
+[Reconstruction Engine] [2019-02-26 17:48:23] [LOG] Saving Mesh File...
+[Reconstruction Engine] [2019-02-26 17:48:25] [LOG] Done. File is Saved to ./Recons3DAsset/Model.obj
+[Reconstruction Engine] [2019-02-26 17:48:25] [LOG] Extracting For Chunk: 1/18
+[Reconstruction Engine] [2019-02-26 17:48:25] [LOG] Extracting For Chunk: 2/18
+[Reconstruction Engine] [2019-02-26 17:48:25] [LOG] Extracting For Chunk: 3/18
+[Reconstruction Engine] [2019-02-26 17:48:25] [LOG] Extracting For Chunk: 4/18
+[Reconstruction Engine] [2019-02-26 17:48:25] [LOG] Extracting For Chunk: 5/18
+[Reconstruction Engine] [2019-02-26 17:48:25] [LOG] Extracting For Chunk: 6/18
+[Reconstruction Engine] [2019-02-26 17:48:25] [LOG] Extracting For Chunk: 7/18
+[Reconstruction Engine] [2019-02-26 17:48:26] [LOG] Extracting For Chunk: 8/18
+[Reconstruction Engine] [2019-02-26 17:48:26] [LOG] Extracting For Chunk: 9/18
+[Reconstruction Engine] [2019-02-26 17:48:26] [LOG] Extracting For Chunk: 10/18
+[Reconstruction Engine] [2019-02-26 17:48:27] [LOG] Extracting For Chunk: 11/18
+[Reconstruction Engine] [2019-02-26 17:48:27] [LOG] Extracting For Chunk: 12/18
+[Reconstruction Engine] [2019-02-26 17:48:27] [LOG] Extracting For Chunk: 13/18
+[Reconstruction Engine] [2019-02-26 17:48:27] [LOG] Extracting For Chunk: 14/18
+[Reconstruction Engine] [2019-02-26 17:48:27] [LOG] Extracting For Chunk: 15/18
+[Reconstruction Engine] [2019-02-26 17:48:28] [LOG] Extracting For Chunk: 16/18
+[Reconstruction Engine] [2019-02-26 17:48:28] [LOG] Extracting For Chunk: 17/18
+[Reconstruction Engine] [2019-02-26 17:48:28] [LOG] Extracting For Chunk: 18/18
+[Reconstruction Engine] [2019-02-26 17:48:28] [LOG] Spatial Analyzing...
+[Reconstruction Engine] [2019-02-26 17:48:28] [LOG] Saving Collider File...
+[Reconstruction Engine] [2019-02-26 17:48:29] [LOG] Done. File is Saved to ./Recons3DAsset/Model_cld.obj
+[Reconstruction Engine] [2019-02-26 17:48:29] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:49:16] [LOG] CMD: Start Process
+[Reconstruction Engine] [2019-02-26 17:49:18] [LOG] Frame:50, FPS:26.923208, #Vert:8313, Stride:16, #Idx:41331
+[Reconstruction Engine] [2019-02-26 17:49:20] [LOG] Frame:100, FPS:23.247133, #Vert:5664, Stride:16, #Idx:24024
+[Reconstruction Engine] [2019-02-26 17:49:22] [LOG] Frame:150, FPS:22.365135, #Vert:8433, Stride:16, #Idx:38679
+[Reconstruction Engine] [2019-02-26 17:49:25] [LOG] Frame:200, FPS:21.174505, #Vert:8594, Stride:16, #Idx:40041
+[Reconstruction Engine] [2019-02-26 17:49:27] [LOG] Frame:250, FPS:21.408995, #Vert:9676, Stride:16, #Idx:45795
+[Reconstruction Engine] [2019-02-26 17:49:30] [LOG] Frame:300, FPS:21.322552, #Vert:5811, Stride:16, #Idx:27816
+[Reconstruction Engine] [2019-02-26 17:49:32] [LOG] Frame:350, FPS:21.053535, #Vert:4987, Stride:16, #Idx:23754
+[Reconstruction Engine] [2019-02-26 17:49:35] [LOG] Frame:400, FPS:20.631222, #Vert:6261, Stride:16, #Idx:30489
+[Reconstruction Engine] [2019-02-26 17:49:35] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:51:22] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:51:22] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2019-02-26 17:51:41] [LOG] Set DataSource:0
+[Reconstruction Engine] [2019-02-26 17:51:41] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2019-02-26 17:51:45] [LOG] CMD: Start Process
+[Reconstruction Engine] [2019-02-26 17:51:45] [LOG] Semantic progress listener enabled
+[Reconstruction Engine] [2019-02-26 17:51:45] [LOG] ModuleSegmentation Callback Registered to Reconstruction
+[Reconstruction Engine] [2019-02-26 17:51:54] [LOG] Frame:50, FPS:5.657598, #Vert:1305, Stride:16, #Idx:4500
+[Reconstruction Engine] [2019-02-26 17:51:56] [LOG] Frame:100, FPS:9.031710, #Vert:941, Stride:16, #Idx:3441
+[Reconstruction Engine] [2019-02-26 17:51:59] [LOG] Frame:150, FPS:11.017074, #Vert:1604, Stride:16, #Idx:6993
+[Reconstruction Engine] [2019-02-26 17:52:01] [LOG] Frame:200, FPS:12.602717, #Vert:2860, Stride:16, #Idx:13482
+[Reconstruction Engine] [2019-02-26 17:52:04] [LOG] Frame:250, FPS:13.508207, #Vert:4398, Stride:16, #Idx:20799
+[Reconstruction Engine] [2019-02-26 17:52:07] [LOG] Frame:300, FPS:14.056508, #Vert:8341, Stride:16, #Idx:41022
+[Reconstruction Engine] [2019-02-26 17:52:09] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:52:13] [LOG] CMD: Start Process
+[Reconstruction Engine] [2019-02-26 17:52:15] [LOG] Frame:50, FPS:21.698681, #Vert:2594, Stride:16, #Idx:10911
+[Reconstruction Engine] [2019-02-26 17:52:17] [LOG] Frame:100, FPS:21.381914, #Vert:3946, Stride:16, #Idx:19050
+[Reconstruction Engine] [2019-02-26 17:52:20] [LOG] Frame:150, FPS:21.272667, #Vert:4635, Stride:16, #Idx:22782
+[Reconstruction Engine] [2019-02-26 17:52:21] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:52:25] [LOG] CMD: Start Process
+[Reconstruction Engine] [2019-02-26 17:52:28] [LOG] Frame:50, FPS:23.358599, #Vert:1413, Stride:16, #Idx:5904
+[Reconstruction Engine] [2019-02-26 17:52:30] [LOG] Frame:100, FPS:22.346109, #Vert:4866, Stride:16, #Idx:22674
+[Reconstruction Engine] [2019-02-26 17:52:32] [LOG] CMD: Export semantic info to ./Recons3DAsset/SceneUnderstanding/
+[Reconstruction Engine] [2019-02-26 17:52:34] [LOG] Export ./Recons3DAsset/SceneUnderstanding//Chair_0.obj
+[Reconstruction Engine] [2019-02-26 17:52:34] [LOG] Spatial Analyzing...
+[Reconstruction Engine] [2019-02-26 17:52:34] [LOG] Saving Collider File...
+[Reconstruction Engine] [2019-02-26 17:52:34] [LOG] Done. File is Saved to ./Recons3DAsset/SceneUnderstanding//Chair_0_cld.obj
+[Reconstruction Engine] [2019-02-26 17:52:35] [LOG] CMD: Export to ./Recons3DAsset/Model
+[Reconstruction Engine] [2019-02-26 17:52:35] [LOG] Start Geometry Extraction...
+[Reconstruction Engine] [2019-02-26 17:52:35] [LOG] Extracting For Chunk: 1/8
+[Reconstruction Engine] [2019-02-26 17:52:36] [LOG] Extracting For Chunk: 2/8
+[Reconstruction Engine] [2019-02-26 17:52:36] [LOG] Extracting For Chunk: 3/8
+[Reconstruction Engine] [2019-02-26 17:52:36] [LOG] Extracting For Chunk: 4/8
+[Reconstruction Engine] [2019-02-26 17:52:37] [LOG] Extracting For Chunk: 5/8
+[Reconstruction Engine] [2019-02-26 17:52:37] [LOG] Extracting For Chunk: 6/8
+[Reconstruction Engine] [2019-02-26 17:52:37] [LOG] Extracting For Chunk: 7/8
+[Reconstruction Engine] [2019-02-26 17:52:37] [LOG] Extracting For Chunk: 8/8
+[Reconstruction Engine] [2019-02-26 17:52:37] [LOG] Compacting Textures...
+[Reconstruction Engine] [2019-02-26 17:52:38] [LOG] Saving Mesh File...
+[Reconstruction Engine] [2019-02-26 17:52:38] [LOG] Done. File is Saved to ./Recons3DAsset/Model.obj
+[Reconstruction Engine] [2019-02-26 17:52:38] [LOG] Extracting For Chunk: 1/8
+[Reconstruction Engine] [2019-02-26 17:52:38] [LOG] Extracting For Chunk: 2/8
+[Reconstruction Engine] [2019-02-26 17:52:38] [LOG] Extracting For Chunk: 3/8
+[Reconstruction Engine] [2019-02-26 17:52:38] [LOG] Extracting For Chunk: 4/8
+[Reconstruction Engine] [2019-02-26 17:52:39] [LOG] Extracting For Chunk: 5/8
+[Reconstruction Engine] [2019-02-26 17:52:39] [LOG] Extracting For Chunk: 6/8
+[Reconstruction Engine] [2019-02-26 17:52:39] [LOG] Extracting For Chunk: 7/8
+[Reconstruction Engine] [2019-02-26 17:52:39] [LOG] Extracting For Chunk: 8/8
+[Reconstruction Engine] [2019-02-26 17:52:39] [LOG] Spatial Analyzing...
+[Reconstruction Engine] [2019-02-26 17:52:39] [LOG] Saving Collider File...
+[Reconstruction Engine] [2019-02-26 17:52:39] [LOG] Done. File is Saved to ./Recons3DAsset/Model_cld.obj
+[Reconstruction Engine] [2019-02-26 17:52:39] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:54:46] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:54:46] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2019-02-26 17:55:57] [LOG] Set DataSource:0
+[Reconstruction Engine] [2019-02-26 17:55:57] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2019-02-26 17:56:27] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:56:27] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:56:28] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2019-02-26 17:56:34] [LOG] Set DataSource:0
+[Reconstruction Engine] [2019-02-26 17:56:34] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2019-02-26 17:56:47] [LOG] CMD: Start Process
+[Reconstruction Engine] [2019-02-26 17:56:47] [LOG] Semantic progress listener enabled
+[Reconstruction Engine] [2019-02-26 17:56:47] [LOG] ModuleSegmentation Callback Registered to Reconstruction
+[Reconstruction Engine] [2019-02-26 17:56:49] [LOG] Frame:50, FPS:23.818359, #Vert:1686, Stride:16, #Idx:6516
+[Reconstruction Engine] [2019-02-26 17:56:51] [LOG] Frame:100, FPS:22.217381, #Vert:2907, Stride:16, #Idx:14574
+[Reconstruction Engine] [2019-02-26 17:56:54] [LOG] Frame:150, FPS:21.290846, #Vert:9586, Stride:16, #Idx:46131
+[Reconstruction Engine] [2019-02-26 17:56:57] [LOG] Frame:200, FPS:20.227982, #Vert:7349, Stride:16, #Idx:36597
+[Reconstruction Engine] [2019-02-26 17:56:59] [LOG] Frame:250, FPS:20.140331, #Vert:8880, Stride:16, #Idx:44430
+[Reconstruction Engine] [2019-02-26 17:57:02] [LOG] Frame:300, FPS:19.684132, #Vert:8292, Stride:16, #Idx:42105
+[Reconstruction Engine] [2019-02-26 17:57:05] [LOG] Frame:350, FPS:19.476349, #Vert:3157, Stride:16, #Idx:15117
+[Reconstruction Engine] [2019-02-26 17:57:07] [LOG] Frame:400, FPS:19.730703, #Vert:5500, Stride:16, #Idx:26394
+[Reconstruction Engine] [2019-02-26 17:57:10] [LOG] Frame:450, FPS:19.763109, #Vert:9127, Stride:16, #Idx:44619
+[Reconstruction Engine] [2019-02-26 17:57:12] [LOG] Frame:500, FPS:19.991438, #Vert:6506, Stride:16, #Idx:31170
+[Reconstruction Engine] [2019-02-26 17:57:16] [LOG] Frame:550, FPS:19.048599, #Vert:3507, Stride:16, #Idx:16860
+[Reconstruction Engine] [2019-02-26 17:57:19] [LOG] Frame:600, FPS:18.891161, #Vert:7972, Stride:16, #Idx:38793
+[Reconstruction Engine] [2019-02-26 17:57:21] [LOG] Frame:650, FPS:18.870100, #Vert:8873, Stride:16, #Idx:41259
+[Reconstruction Engine] [2019-02-26 17:57:24] [LOG] Frame:700, FPS:18.732317, #Vert:6130, Stride:16, #Idx:29145
+[Reconstruction Engine] [2019-02-26 17:57:27] [LOG] Frame:750, FPS:18.704941, #Vert:9592, Stride:16, #Idx:46233
+[Reconstruction Engine] [2019-02-26 17:57:31] [LOG] Frame:800, FPS:18.332373, #Vert:8831, Stride:16, #Idx:41880
+[Reconstruction Engine] [2019-02-26 17:57:33] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 17:58:20] [LOG] CMD: Start Process
+[Reconstruction Engine] [2019-02-26 17:58:23] [LOG] Frame:50, FPS:23.585659, #Vert:10370, Stride:16, #Idx:51780
+[Reconstruction Engine] [2019-02-26 17:58:25] [LOG] Frame:100, FPS:22.956839, #Vert:6340, Stride:16, #Idx:28848
+[Reconstruction Engine] [2019-02-26 17:58:27] [LOG] Frame:150, FPS:22.296986, #Vert:7647, Stride:16, #Idx:36348
+[Reconstruction Engine] [2019-02-26 17:58:30] [LOG] Frame:200, FPS:21.910295, #Vert:6855, Stride:16, #Idx:33381
+[Reconstruction Engine] [2019-02-26 17:58:33] [LOG] Frame:250, FPS:20.210358, #Vert:9298, Stride:16, #Idx:45240
+[Reconstruction Engine] [2019-02-26 17:58:36] [LOG] Frame:300, FPS:19.027695, #Vert:8929, Stride:16, #Idx:44121
+[Reconstruction Engine] [2019-02-26 17:58:40] [LOG] Frame:350, FPS:17.791912, #Vert:5556, Stride:16, #Idx:27426
+[Reconstruction Engine] [2019-02-26 17:58:41] [LOG] CMD: Export semantic info to ./Recons3DAsset/SceneUnderstanding/
+[Reconstruction Engine] [2019-02-26 17:58:43] [LOG] Export ./Recons3DAsset/SceneUnderstanding//Chair_0.obj
+[Reconstruction Engine] [2019-02-26 17:58:43] [LOG] Spatial Analyzing...
+[Reconstruction Engine] [2019-02-26 17:58:43] [LOG] Saving Collider File...
+[Reconstruction Engine] [2019-02-26 17:58:43] [LOG] Done. File is Saved to ./Recons3DAsset/SceneUnderstanding//Chair_0_cld.obj
+[Reconstruction Engine] [2019-02-26 17:58:43] [LOG] Export ./Recons3DAsset/SceneUnderstanding//Chair_1.obj
+[Reconstruction Engine] [2019-02-26 17:58:43] [LOG] Spatial Analyzing...
+[Reconstruction Engine] [2019-02-26 17:58:43] [LOG] Saving Collider File...
+[Reconstruction Engine] [2019-02-26 17:58:43] [LOG] Done. File is Saved to ./Recons3DAsset/SceneUnderstanding//Chair_1_cld.obj
+[Reconstruction Engine] [2019-02-26 17:58:44] [LOG] Export ./Recons3DAsset/SceneUnderstanding//Floor_0.obj
+[Reconstruction Engine] [2019-02-26 17:58:44] [LOG] Spatial Analyzing...
+[Reconstruction Engine] [2019-02-26 17:58:44] [LOG] Saving Collider File...
+[Reconstruction Engine] [2019-02-26 17:58:44] [LOG] Done. File is Saved to ./Recons3DAsset/SceneUnderstanding//Floor_0_cld.obj
+[Reconstruction Engine] [2019-02-26 17:58:44] [LOG] Export ./Recons3DAsset/SceneUnderstanding//Table_0.obj
+[Reconstruction Engine] [2019-02-26 17:58:44] [LOG] Spatial Analyzing...
+[Reconstruction Engine] [2019-02-26 17:58:44] [LOG] Saving Collider File...
+[Reconstruction Engine] [2019-02-26 17:58:44] [LOG] Done. File is Saved to ./Recons3DAsset/SceneUnderstanding//Table_0_cld.obj
+[Reconstruction Engine] [2019-02-26 17:58:44] [LOG] CMD: Export to ./Recons3DAsset/Model
+[Reconstruction Engine] [2019-02-26 17:58:45] [LOG] Start Geometry Extraction...
+[Reconstruction Engine] [2019-02-26 17:58:45] [LOG] Extracting For Chunk: 1/8
+[Reconstruction Engine] [2019-02-26 17:58:45] [LOG] Extracting For Chunk: 2/8
+[Reconstruction Engine] [2019-02-26 17:58:46] [LOG] Extracting For Chunk: 3/8
+[Reconstruction Engine] [2019-02-26 17:58:46] [LOG] Extracting For Chunk: 4/8
+[Reconstruction Engine] [2019-02-26 17:58:46] [LOG] Extracting For Chunk: 5/8
+[Reconstruction Engine] [2019-02-26 17:58:46] [LOG] Extracting For Chunk: 6/8
+[Reconstruction Engine] [2019-02-26 17:58:47] [LOG] Extracting For Chunk: 7/8
+[Reconstruction Engine] [2019-02-26 17:58:47] [LOG] Extracting For Chunk: 8/8
+[Reconstruction Engine] [2019-02-26 17:58:47] [LOG] Compacting Textures...
+[Reconstruction Engine] [2019-02-26 17:58:47] [LOG] Saving Mesh File...
+[Reconstruction Engine] [2019-02-26 17:58:48] [LOG] Done. File is Saved to ./Recons3DAsset/Model.obj
+[Reconstruction Engine] [2019-02-26 17:58:48] [LOG] Extracting For Chunk: 1/8
+[Reconstruction Engine] [2019-02-26 17:58:48] [LOG] Extracting For Chunk: 2/8
+[Reconstruction Engine] [2019-02-26 17:58:48] [LOG] Extracting For Chunk: 3/8
+[Reconstruction Engine] [2019-02-26 17:58:48] [LOG] Extracting For Chunk: 4/8
+[Reconstruction Engine] [2019-02-26 17:58:49] [LOG] Extracting For Chunk: 5/8
+[Reconstruction Engine] [2019-02-26 17:58:49] [LOG] Extracting For Chunk: 6/8
+[Reconstruction Engine] [2019-02-26 17:58:49] [LOG] Extracting For Chunk: 7/8
+[Reconstruction Engine] [2019-02-26 17:58:49] [LOG] Extracting For Chunk: 8/8
+[Reconstruction Engine] [2019-02-26 17:58:49] [LOG] Spatial Analyzing...
+[Reconstruction Engine] [2019-02-26 17:58:49] [LOG] Saving Collider File...
+[Reconstruction Engine] [2019-02-26 17:58:49] [LOG] Done. File is Saved to ./Recons3DAsset/Model_cld.obj
+[Reconstruction Engine] [2019-02-26 17:58:49] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 18:00:15] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 18:00:15] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-02-26 18:00:15] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2019-03-01 13:57:56] [LOG] Set DataSource:0
+[Reconstruction Engine] [2019-03-01 13:57:56] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2019-03-01 14:47:05] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-03-01 14:47:05] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2019-03-01 15:29:09] [LOG] Set DataSource:0
+[Reconstruction Engine] [2019-03-01 15:29:09] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2019-03-01 15:36:53] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-03-01 15:36:53] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2019-03-12 11:08:52] [LOG] Set DataSource:0
+[Reconstruction Engine] [2019-03-12 11:08:52] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2019-03-12 11:10:43] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-03-12 11:10:43] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2019-03-12 11:10:55] [LOG] Set DataSource:0
+[Reconstruction Engine] [2019-03-12 11:10:55] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2019-03-12 11:11:02] [LOG] CMD: Start Process
+[Reconstruction Engine] [2019-03-12 11:11:04] [LOG] Frame:50, FPS:25.929138, #Vert:8980, Stride:16, #Idx:39270
+[Reconstruction Engine] [2019-03-12 11:11:07] [LOG] Frame:100, FPS:24.108557, #Vert:8603, Stride:16, #Idx:39873
+[Reconstruction Engine] [2019-03-12 11:11:09] [LOG] Frame:150, FPS:24.019445, #Vert:9164, Stride:16, #Idx:43326
+[Reconstruction Engine] [2019-03-12 11:11:11] [LOG] Frame:200, FPS:24.284918, #Vert:9691, Stride:16, #Idx:45483
+[Reconstruction Engine] [2019-03-12 11:11:13] [LOG] Frame:250, FPS:23.592848, #Vert:9366, Stride:16, #Idx:45912
+[Reconstruction Engine] [2019-03-12 11:11:15] [LOG] Frame:300, FPS:23.089249, #Vert:9583, Stride:16, #Idx:47268
+[Reconstruction Engine] [2019-03-12 11:11:18] [LOG] Frame:350, FPS:23.119598, #Vert:9627, Stride:16, #Idx:47634
+[Reconstruction Engine] [2019-03-12 11:11:20] [LOG] Frame:400, FPS:22.950047, #Vert:10378, Stride:16, #Idx:50577
+[Reconstruction Engine] [2019-03-12 11:11:22] [LOG] Frame:450, FPS:23.074833, #Vert:10395, Stride:16, #Idx:50667
+[Reconstruction Engine] [2019-03-12 11:11:24] [LOG] Frame:500, FPS:22.980669, #Vert:10396, Stride:16, #Idx:49860
+[Reconstruction Engine] [2019-03-12 11:11:26] [LOG] Frame:550, FPS:23.075663, #Vert:10478, Stride:16, #Idx:50400
+[Reconstruction Engine] [2019-03-12 11:11:28] [LOG] Frame:600, FPS:23.135544, #Vert:10869, Stride:16, #Idx:52068
+[Reconstruction Engine] [2019-03-12 11:11:29] [LOG] CMD: Export to ./Recons3DAsset/Model
+[Reconstruction Engine] [2019-03-12 11:11:30] [LOG] Start Geometry Extraction...
+[Reconstruction Engine] [2019-03-12 11:11:30] [LOG] Extracting For Chunk: 1/8
+[Reconstruction Engine] [2019-03-12 11:11:31] [LOG] Extracting For Chunk: 2/8
+[Reconstruction Engine] [2019-03-12 11:11:31] [LOG] Extracting For Chunk: 3/8
+[Reconstruction Engine] [2019-03-12 11:11:31] [LOG] Extracting For Chunk: 4/8
+[Reconstruction Engine] [2019-03-12 11:11:31] [LOG] Extracting For Chunk: 5/8
+[Reconstruction Engine] [2019-03-12 11:11:31] [LOG] Extracting For Chunk: 6/8
+[Reconstruction Engine] [2019-03-12 11:11:32] [LOG] Extracting For Chunk: 7/8
+[Reconstruction Engine] [2019-03-12 11:11:32] [LOG] Extracting For Chunk: 8/8
+[Reconstruction Engine] [2019-03-12 11:11:32] [LOG] Compacting Textures...
+[Reconstruction Engine] [2019-03-12 11:11:32] [LOG] Saving Mesh File...
+[Reconstruction Engine] [2019-03-12 11:11:33] [LOG] Done. File is Saved to ./Recons3DAsset/Model.obj
+[Reconstruction Engine] [2019-03-12 11:11:33] [LOG] Extracting For Chunk: 1/8
+[Reconstruction Engine] [2019-03-12 11:11:33] [LOG] Extracting For Chunk: 2/8
+[Reconstruction Engine] [2019-03-12 11:11:33] [LOG] Extracting For Chunk: 3/8
+[Reconstruction Engine] [2019-03-12 11:11:33] [LOG] Extracting For Chunk: 4/8
+[Reconstruction Engine] [2019-03-12 11:11:33] [LOG] Extracting For Chunk: 5/8
+[Reconstruction Engine] [2019-03-12 11:11:34] [LOG] Extracting For Chunk: 6/8
+[Reconstruction Engine] [2019-03-12 11:11:34] [LOG] Extracting For Chunk: 7/8
+[Reconstruction Engine] [2019-03-12 11:11:34] [LOG] Extracting For Chunk: 8/8
+[Reconstruction Engine] [2019-03-12 11:11:34] [LOG] Spatial Analyzing...
+[Reconstruction Engine] [2019-03-12 11:11:34] [LOG] Saving Collider File...
+[Reconstruction Engine] [2019-03-12 11:11:34] [LOG] Done. File is Saved to ./Recons3DAsset/Model_cld.obj
+[Reconstruction Engine] [2019-03-12 11:11:34] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-03-12 11:12:07] [LOG] CMD: Start Process
+[Reconstruction Engine] [2019-03-12 11:12:09] [LOG] Frame:50, FPS:25.939304, #Vert:23, Stride:16, #Idx:111
+[Reconstruction Engine] [2019-03-12 11:12:11] [LOG] Frame:100, FPS:24.560246, #Vert:5431, Stride:16, #Idx:26829
+[Reconstruction Engine] [2019-03-12 11:12:13] [LOG] Frame:150, FPS:24.469730, #Vert:5796, Stride:16, #Idx:26592
+[Reconstruction Engine] [2019-03-12 11:12:15] [LOG] Frame:200, FPS:24.225765, #Vert:5755, Stride:16, #Idx:28167
+[Reconstruction Engine] [2019-03-12 11:12:18] [LOG] Frame:250, FPS:23.860113, #Vert:5842, Stride:16, #Idx:26982
+[Reconstruction Engine] [2019-03-12 11:12:20] [LOG] Frame:300, FPS:23.785166, #Vert:6510, Stride:16, #Idx:31830
+[Reconstruction Engine] [2019-03-12 11:12:22] [LOG] Frame:350, FPS:23.291218, #Vert:2406, Stride:16, #Idx:11853
+[Reconstruction Engine] [2019-03-12 11:12:24] [LOG] CMD: Export to ./Recons3DAsset/Model
+[Reconstruction Engine] [2019-03-12 11:12:25] [LOG] Start Geometry Extraction...
+[Reconstruction Engine] [2019-03-12 11:12:25] [LOG] Extracting For Chunk: 1/8
+[Reconstruction Engine] [2019-03-12 11:12:25] [LOG] Extracting For Chunk: 2/8
+[Reconstruction Engine] [2019-03-12 11:12:25] [LOG] Extracting For Chunk: 3/8
+[Reconstruction Engine] [2019-03-12 11:12:25] [LOG] Extracting For Chunk: 4/8
+[Reconstruction Engine] [2019-03-12 11:12:26] [LOG] Extracting For Chunk: 5/8
+[Reconstruction Engine] [2019-03-12 11:12:26] [LOG] Extracting For Chunk: 6/8
+[Reconstruction Engine] [2019-03-12 11:12:26] [LOG] Extracting For Chunk: 7/8
+[Reconstruction Engine] [2019-03-12 11:12:26] [LOG] Extracting For Chunk: 8/8
+[Reconstruction Engine] [2019-03-12 11:12:26] [LOG] Compacting Textures...
+[Reconstruction Engine] [2019-03-12 11:12:27] [LOG] Saving Mesh File...
+[Reconstruction Engine] [2019-03-12 11:12:27] [LOG] Done. File is Saved to ./Recons3DAsset/Model.obj
+[Reconstruction Engine] [2019-03-12 11:12:27] [LOG] Extracting For Chunk: 1/8
+[Reconstruction Engine] [2019-03-12 11:12:28] [LOG] Extracting For Chunk: 2/8
+[Reconstruction Engine] [2019-03-12 11:12:28] [LOG] Extracting For Chunk: 3/8
+[Reconstruction Engine] [2019-03-12 11:12:28] [LOG] Extracting For Chunk: 4/8
+[Reconstruction Engine] [2019-03-12 11:12:28] [LOG] Extracting For Chunk: 5/8
+[Reconstruction Engine] [2019-03-12 11:12:28] [LOG] Extracting For Chunk: 6/8
+[Reconstruction Engine] [2019-03-12 11:12:28] [LOG] Extracting For Chunk: 7/8
+[Reconstruction Engine] [2019-03-12 11:12:28] [LOG] Extracting For Chunk: 8/8
+[Reconstruction Engine] [2019-03-12 11:12:28] [LOG] Spatial Analyzing...
+[Reconstruction Engine] [2019-03-12 11:12:28] [LOG] Saving Collider File...
+[Reconstruction Engine] [2019-03-12 11:12:29] [LOG] Done. File is Saved to ./Recons3DAsset/Model_cld.obj
+[Reconstruction Engine] [2019-03-12 11:12:29] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-03-12 11:12:40] [LOG] CMD: Start Process
+[Reconstruction Engine] [2019-03-12 11:12:42] [LOG] Frame:50, FPS:24.192549, #Vert:5541, Stride:16, #Idx:25596
+[Reconstruction Engine] [2019-03-12 11:12:44] [LOG] Frame:100, FPS:23.776884, #Vert:6246, Stride:16, #Idx:29307
+[Reconstruction Engine] [2019-03-12 11:12:46] [LOG] Frame:150, FPS:23.311049, #Vert:7086, Stride:16, #Idx:33378
+[Reconstruction Engine] [2019-03-12 11:12:48] [LOG] Frame:200, FPS:23.215178, #Vert:6368, Stride:16, #Idx:30738
+[Reconstruction Engine] [2019-03-12 11:12:51] [LOG] Frame:250, FPS:22.846918, #Vert:4892, Stride:16, #Idx:22077
+[Reconstruction Engine] [2019-03-12 11:12:53] [LOG] Frame:300, FPS:22.672070, #Vert:5132, Stride:16, #Idx:25275
+[Reconstruction Engine] [2019-03-12 11:12:53] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-03-12 11:14:35] [LOG] CMD: Stop Process
+[Reconstruction Engine] [2019-03-12 11:14:35] [LOG] ViveStaticReconstruction Destruction
+
