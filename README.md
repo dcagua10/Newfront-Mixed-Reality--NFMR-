@@ -27,6 +27,8 @@ La instalación se puede realizar mediante los siguientes pasos:
 
 -Iniciar Unity en la version especificada
 
+-Cargar el proyecto descargado
+
 -Seleccionar la escena principal disponible en la carpeta Assets/Scenes/SampleScene.unity dentro de los archivos descargados
 
 -Verificar que el Game Object VROrigin se encuentre habilitado (Esta es la implementación del jugador)
